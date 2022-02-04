@@ -9,7 +9,7 @@ function App() {
                 <p>Pull Request</p>
                 <a
                     className="App-link"
-                    href="https://reactjs.org"
+                    href="https://jtamyrc.github.io/gh-demo-pr"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
